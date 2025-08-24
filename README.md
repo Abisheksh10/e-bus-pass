@@ -47,6 +47,7 @@ Built with **Vite**, **Tailwind CSS**, **Express.js**, and **Stripe**, it ensure
 
 ## 📂 Project Structure
 e-bus-pass/
+
 │── client/ # Frontend (Vite + React + Tailwind CSS)
 
 │── server/ # Backend (Express.js + Stripe + DB + QR generator)
