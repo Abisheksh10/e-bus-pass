@@ -1,4 +1,4 @@
-# 🚌 e-Bus Pass Application
+# 🚌 E-Bus Pass Application
 
 The **e-Bus Pass App** is a full-stack web application that digitalizes the process of applying, approving, and managing bus passes for students.  
 It provides **two roles**: **Client (Students)** and **Admin**.  
