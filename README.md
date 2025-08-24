@@ -46,3 +46,42 @@ Built with **Vite**, **Tailwind CSS**, **Express.js**, and **Stripe**, it ensure
 ---
 
 ## 📂 Project Structure
+e-bus-pass/
+│── client/ # Frontend (Vite + React + Tailwind CSS)
+│── server/ # Backend (Express.js + Stripe + DB + QR generator)
+│── README.md
+
+
+---
+
+## ⚡ Getting Started
+
+### Prerequisites
+- Node.js (>= 18.x)
+- npm or yarn
+- Stripe account & API keys
+- Database (MongoDB/MySQL/PostgreSQL depending on setup)
+
+### Installation
+
+# Clone the repository
+git clone https://github.com/Abisheksh10/e-bus-pass.git
+cd e-bus-pass
+
+# Install dependencies for client
+cd client
+npm install
+
+# Install dependencies for server
+cd ../server
+npm install
+
+Running the App
+# Start backend server
+cd server
+npm run dev
+
+# Start frontend
+cd ../client
+npm run dev
+
