@@ -1,0 +1,18 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Logs
+*.log
+
+# Environment files
+client/.env
+server/.env
+
+server/hash.js
+# Build
+client/build/
+server/dist/
+
+# Others
+.DS_Store
